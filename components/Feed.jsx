@@ -3,6 +3,7 @@ import { db } from "@/firebase";
 import React, { useState, useEffect } from "react";
 import {HiOutlineSparkles} from "react-icons/hi"
 import Input from "./Input";
+import Post from "./Post";
 
 const Feed = () => {
   const [posts, setPosts] = useState([]);
@@ -23,6 +24,9 @@ const Feed = () => {
       <HiOutlineSparkles/>
     </div>
     <Input/>
+    {posts.map((post)=>(
+      <Post key={post.id} id={post.id} post={post.data()}/>
+    ))}
   </div>;
 };
 

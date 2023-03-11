@@ -18,6 +18,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/api/auth/[...nextauth].js", "components/Feed.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/api/auth/[...nextauth].js", "components/Feed.jsx", "components/Modal.jsx", "components/Post.jsx", "components/Post.jsx", "context/AppContext.js"],
   "exclude": ["node_modules"]
 }
