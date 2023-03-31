@@ -1,38 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png"  alt="Divyanshu Yadav" width="20%" />
+</div>
 
-## Getting Started
+<br>
+<p align="center">
+Utter - Twitter Clone 🪄
+</p>
+<p align="center">
+crafted with <span style="color: #8b0000;">&hearts;</span> by <a href="https://www.linkedin.com/in/divyanshu-yadav-b32a76220/">DIVYANSHU YADAV</a>
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/version-1.0.0-red" alt="version 1.0.0"/>
+    <img src="https://img.shields.io/badge/license-MIT-red" alt="license MIT"/>
+    <img src="https://img.shields.io/badge/author-DIVYANSHU-red" alt="author Divyanshu"/>
+</p>
 
-First, run the development server:
+## Preview 📺
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+<div align="center">
+
+```
+Login Screen
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <img alt="Screenshot" src="https://user-images.githubusercontent.com/91051053/224494783-40be1a36-630b-4979-947a-b05e0fc9a8c6.png" />
+  
+```
+Home Screen
+```
+ <img alt="Screenshot" src="https://user-images.githubusercontent.com/91051053/224494861-42fcaeb5-6085-48f2-bb57-6043bf028d42.png" />
+</div>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Installation 🔧
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Install dependencies
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+$ yarn install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Build server
 
-## Learn More
+```
+$ yarn build
+```
 
-To learn more about Next.js, take a look at the following resources:
+Start the server
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+$ yarn start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## License 📜
 
-## Deploy on Vercel
+`Utter - Twitter Clone 🪄` is available under the MIT license. See the LICENSE file for more info.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<!-- ## Contributing 🤝 -->
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<!-- Please read `Contributing.md` for details on our code of conduct, and the process for submitting pull requests to us. -->
+
+## Shout outs 💥
+
+| <p align="center">![Divyanshu Yadav](https://github.com/divyanshu1810.png?size=128)<br>[Divyanshu Yadav](https://github.com/divyanshu1810)</p> | 
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+
+
+
+## Forking this repo 🚨
+
+Many people have contacted us asking if they can use this code for their own websites. The answer to that question is usually "yes", with attribution. There are some cases, such as using this code for a business or something that is greater than a personal project, that we may be less comfortable saying yes to. If in doubt, please don't hesitate to ask us.
+
+We value keeping this site open source, but as you all know, _**plagiarism is bad**_. We spent a non-negligible amount of effort developing, designing, and trying to perfect this iteration of our website, and we are proud of it! All we ask is to not claim this effort as your own.
+
+So, feel free to fork this repo. If you do, please just give us proper credit by linking back to our website. Refer to this handy [quora post](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) if you're not sure what to do. Thanks!
