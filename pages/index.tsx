@@ -5,8 +5,8 @@ import Feed from "../components/Feed";
 import Login from "../components/Login";
 import Modal from "../components/Modal";
 import Sidebar from "../components/Sidebar";
-import Trending from "../components/Trending";
 import { AppContext } from "../context/AppContext";
+import Trending from "@/components/Trending";
 
 export default function Home() {
   const { data: session } = useSession();
